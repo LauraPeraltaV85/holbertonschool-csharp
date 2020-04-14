@@ -10,7 +10,7 @@ namespace _5_print_comb
             for (i = 0; i < 99; i++) {
                 Console.Write("{0:D2}, ", i);
             }
-            Console.Write("99 \n");
+            Console.Write("99\n");
         }
     }
 }
