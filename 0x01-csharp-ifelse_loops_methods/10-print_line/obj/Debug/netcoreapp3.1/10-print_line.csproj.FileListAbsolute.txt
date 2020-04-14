@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\bin\Debug\netcoreapp3.1\10-print_line.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\bin\Debug\netcoreapp3.1\10-print_line.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\bin\Debug\netcoreapp3.1\10-print_line.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\bin\Debug\netcoreapp3.1\10-print_line.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\bin\Debug\netcoreapp3.1\10-print_line.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\bin\Debug\netcoreapp3.1\10-print_line.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\10-print_line\obj\Debug\netcoreapp3.1\10-print_line.genruntimeconfig.cache
