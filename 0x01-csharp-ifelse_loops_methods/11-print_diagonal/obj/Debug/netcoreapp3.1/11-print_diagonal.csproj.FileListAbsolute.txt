@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp3.1\11-print_diagonal.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp3.1\11-print_diagonal.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp3.1\11-print_diagonal.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp3.1\11-print_diagonal.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp3.1\11-print_diagonal.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\bin\Debug\netcoreapp3.1\11-print_diagonal.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal\obj\Debug\netcoreapp3.1\11-print_diagonal.genruntimeconfig.cache
