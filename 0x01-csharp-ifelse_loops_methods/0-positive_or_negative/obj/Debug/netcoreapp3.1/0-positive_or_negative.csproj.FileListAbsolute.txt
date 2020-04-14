@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp3.1\0-positive_or_negative.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp3.1\0-positive_or_negative.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp3.1\0-positive_or_negative.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp3.1\0-positive_or_negative.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp3.1\0-positive_or_negative.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\netcoreapp3.1\0-positive_or_negative.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\netcoreapp3.1\0-positive_or_negative.genruntimeconfig.cache
