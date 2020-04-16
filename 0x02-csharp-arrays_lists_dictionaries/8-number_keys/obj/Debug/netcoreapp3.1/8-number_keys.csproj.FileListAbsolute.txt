@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\netcoreapp3.1\8-number_keys.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\netcoreapp3.1\8-number_keys.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\netcoreapp3.1\8-number_keys.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\netcoreapp3.1\8-number_keys.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\netcoreapp3.1\8-number_keys.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\netcoreapp3.1\8-number_keys.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\netcoreapp3.1\8-number_keys.genruntimeconfig.cache
