@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp3.1\12-print_sorted_dictionary.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp3.1\12-print_sorted_dictionary.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp3.1\12-print_sorted_dictionary.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp3.1\12-print_sorted_dictionary.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp3.1\12-print_sorted_dictionary.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp3.1\12-print_sorted_dictionary.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp3.1\12-print_sorted_dictionary.genruntimeconfig.cache
