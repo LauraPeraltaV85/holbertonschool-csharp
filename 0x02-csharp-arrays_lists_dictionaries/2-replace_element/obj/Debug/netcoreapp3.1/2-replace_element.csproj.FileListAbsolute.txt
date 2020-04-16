@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\netcoreapp3.1\2-replace_element.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\netcoreapp3.1\2-replace_element.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\netcoreapp3.1\2-replace_element.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\netcoreapp3.1\2-replace_element.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\netcoreapp3.1\2-replace_element.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\netcoreapp3.1\2-replace_element.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\netcoreapp3.1\2-replace_element.genruntimeconfig.cache

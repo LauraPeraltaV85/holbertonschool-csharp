@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\netcoreapp3.1\1-element_at.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\netcoreapp3.1\1-element_at.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\netcoreapp3.1\1-element_at.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\netcoreapp3.1\1-element_at.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\netcoreapp3.1\1-element_at.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\netcoreapp3.1\1-element_at.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\netcoreapp3.1\1-element_at.genruntimeconfig.cache
