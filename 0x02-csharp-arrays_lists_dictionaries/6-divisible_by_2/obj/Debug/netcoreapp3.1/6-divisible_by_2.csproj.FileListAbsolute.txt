@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\netcoreapp3.1\6-divisible_by_2.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\netcoreapp3.1\6-divisible_by_2.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\netcoreapp3.1\6-divisible_by_2.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\netcoreapp3.1\6-divisible_by_2.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\netcoreapp3.1\6-divisible_by_2.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\bin\Debug\netcoreapp3.1\6-divisible_by_2.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\6-divisible_by_2\obj\Debug\netcoreapp3.1\6-divisible_by_2.genruntimeconfig.cache
