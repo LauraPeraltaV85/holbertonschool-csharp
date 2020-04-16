@@ -11,13 +11,15 @@ class List
               Console.WriteLine("Size cannot be negative");
             return null;
         }
-        for (i = 0; i < size; i++) {
-            newList.Add(i);
-            if (i < size - 1) {
-                Console.Write(newList[i] + " ");
-            }
-            else {
-                Console.WriteLine(newList[i]);
+        else {
+            for (i = 0; i < size; i++) {
+                newList.Add(i);
+                if (i < size - 1) {
+                    Console.Write(newList[i] + " ");
+                }
+                else {
+                    Console.WriteLine(newList[i]);
+                }
             }
         }
         return newList;
