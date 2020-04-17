@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\netcoreapp3.1\15-square_matrix.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\netcoreapp3.1\15-square_matrix.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\netcoreapp3.1\15-square_matrix.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\netcoreapp3.1\15-square_matrix.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\netcoreapp3.1\15-square_matrix.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\netcoreapp3.1\15-square_matrix.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\netcoreapp3.1\15-square_matrix.genruntimeconfig.cache
