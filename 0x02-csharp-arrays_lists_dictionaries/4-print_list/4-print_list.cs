@@ -8,18 +8,19 @@ class List
         int i;
         List<int> newList = new List<int> ();
         if (size < 0) {
-              Console.WriteLine("Size cannot be negative");
+            Console.WriteLine("Size cannot be negative");
             return null;
         }
-        else {
-            for (i = 0; i < size; i++) {
-                newList.Add(i);
-                if (i < size - 1) {
-                    Console.Write(newList[i] + " ");
-                }
-                else {
-                    Console.WriteLine(newList[i]);
-                }
+        if (size == 0) {
+            Console.WriteLine();
+        }
+        for (i = 0; i < size; i++) {
+            newList.Add(i);
+            if (i < size - 1) {
+                Console.Write(newList[i] + " ");
+            }
+            else {
+                Console.WriteLine(newList[i]);
             }
         }
         return newList;
