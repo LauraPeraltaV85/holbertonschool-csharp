@@ -10,6 +10,10 @@ class Array
             return null;
         }
         int[] length = new int[size];
+         if (size == 0) {
+            Console.WriteLine();
+            return length; 
+        }
         for (i = 0; i < size; i++) {
             length[i] = i;
             if (i < size - 1) {
