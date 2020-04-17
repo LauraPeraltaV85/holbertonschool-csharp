@@ -10,7 +10,7 @@ class Array
             return null;
         }
         int[] length = new int[size];
-         if (size == 0) {
+        if (size == 0) {
             Console.WriteLine();
             return length; 
         }
