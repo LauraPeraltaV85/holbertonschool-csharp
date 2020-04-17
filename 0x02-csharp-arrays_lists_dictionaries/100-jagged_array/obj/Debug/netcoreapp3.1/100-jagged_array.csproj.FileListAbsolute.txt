@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\netcoreapp3.1\100-jagged_array.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\netcoreapp3.1\100-jagged_array.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\netcoreapp3.1\100-jagged_array.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\netcoreapp3.1\100-jagged_array.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\netcoreapp3.1\100-jagged_array.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\bin\Debug\netcoreapp3.1\100-jagged_array.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\100-jagged_array\obj\Debug\netcoreapp3.1\100-jagged_array.genruntimeconfig.cache
