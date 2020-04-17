@@ -11,7 +11,12 @@ class Program
 
         for (int x = 0; x < width; x++) {
             for (int y = 0; y < height; y++) {
-                Console.Write(grid[x,y] + " ");
+                if (y < height - 1){
+                    Console.Write(grid[x,y] + " ");
+                }
+                else {
+                    Console.Write(grid[x,y]);
+                }
             }
             Console.WriteLine();
         }
