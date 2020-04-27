@@ -27,7 +27,7 @@ class MyQueue
         }                
         else
         {
-            Console.WriteLine("Queue contains {0}: False", search);
+            Console.WriteLine("Queue contains \"{0}\": False", search);
         }
         return aQueue;
     }
