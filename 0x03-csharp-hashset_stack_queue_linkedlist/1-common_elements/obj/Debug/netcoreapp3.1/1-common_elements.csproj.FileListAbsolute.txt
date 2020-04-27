@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.genruntimeconfig.cache
