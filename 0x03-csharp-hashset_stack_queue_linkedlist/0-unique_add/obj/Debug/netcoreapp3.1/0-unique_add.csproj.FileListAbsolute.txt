@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.genruntimeconfig.cache
