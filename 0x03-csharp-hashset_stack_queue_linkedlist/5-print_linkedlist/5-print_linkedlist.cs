@@ -5,13 +5,22 @@ class LList
 {
     public static LinkedList<int> CreatePrint(int size)
     {
-        int[] numbers = new int[size];
-        for (int i = 0; i < size; i++)
+        
+        if (size < 0)
         {
-            numbers[i] = i;
-            Console.WriteLine(numbers[i]);
+            LinkedList<int> listEmpty = new LinkedList<int>();
+            return listEmpty;
         }
-        LinkedList<int> list = new LinkedList<int>(numbers);        
-        return list;
+        else
+        {
+            int[] numbers = new int[size];
+            for (int i = 0; i < size; i++)
+            {
+                numbers[i] = i;
+                Console.WriteLine(numbers[i]);
+            }
+            LinkedList<int> list = new LinkedList<int>(numbers);        
+            return list;
+        }
     }
 }
