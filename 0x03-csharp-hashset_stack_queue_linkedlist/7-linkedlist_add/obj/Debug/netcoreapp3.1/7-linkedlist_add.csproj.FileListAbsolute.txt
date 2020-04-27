@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\netcoreapp3.1\7-linkedlist_add.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\netcoreapp3.1\7-linkedlist_add.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\netcoreapp3.1\7-linkedlist_add.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\netcoreapp3.1\7-linkedlist_add.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\netcoreapp3.1\7-linkedlist_add.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\netcoreapp3.1\7-linkedlist_add.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\netcoreapp3.1\7-linkedlist_add.genruntimeconfig.cache
