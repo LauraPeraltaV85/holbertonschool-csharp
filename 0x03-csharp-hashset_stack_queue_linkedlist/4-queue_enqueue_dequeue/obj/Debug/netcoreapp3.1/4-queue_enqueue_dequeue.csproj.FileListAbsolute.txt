@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp3.1\4-queue_enqueue_dequeue.genruntimeconfig.cache
