@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\netcoreapp3.1\8-linkedlist_find.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\netcoreapp3.1\8-linkedlist_find.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\netcoreapp3.1\8-linkedlist_find.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\netcoreapp3.1\8-linkedlist_find.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\netcoreapp3.1\8-linkedlist_find.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\netcoreapp3.1\8-linkedlist_find.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\netcoreapp3.1\8-linkedlist_find.genruntimeconfig.cache
