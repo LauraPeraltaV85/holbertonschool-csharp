@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp3.1\5-print_linkedlist.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp3.1\5-print_linkedlist.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp3.1\5-print_linkedlist.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp3.1\5-print_linkedlist.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp3.1\5-print_linkedlist.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\netcoreapp3.1\5-print_linkedlist.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\netcoreapp3.1\5-print_linkedlist.genruntimeconfig.cache
