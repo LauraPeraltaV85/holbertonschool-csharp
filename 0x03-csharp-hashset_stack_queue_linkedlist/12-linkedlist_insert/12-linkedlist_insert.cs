@@ -16,13 +16,11 @@ class LList
             }
             else
             {
-                myLList.AddBefore(current, node);
-                break;
+                return (myLList.AddBefore(current, n));
             }
             if (current.Next == null && current.Value < n)
             {
-                myLList.AddLast(node);    
-                break;
+                return (myLList.AddLast(n));
             }
         }
         return node;
