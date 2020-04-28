@@ -19,7 +19,7 @@ class LList
                 myLList.AddBefore(current, node);
                 break;
             }
-            if (current.Next == null)
+            if (current.Next == null && current.Value < n)
             {
                 myLList.AddLast(node);    
                 break;
