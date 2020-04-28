@@ -1,0 +1,13 @@
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp3.1\13-linkedlist_delete.exe
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp3.1\13-linkedlist_delete.deps.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp3.1\13-linkedlist_delete.runtimeconfig.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp3.1\13-linkedlist_delete.runtimeconfig.dev.json
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp3.1\13-linkedlist_delete.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp3.1\13-linkedlist_delete.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.csprojAssemblyReference.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.csproj.CoreCompileInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.AssemblyInfoInputs.cache
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.AssemblyInfo.cs
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.dll
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.pdb
+D:\Holberton\Specialization\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp3.1\13-linkedlist_delete.genruntimeconfig.cache
