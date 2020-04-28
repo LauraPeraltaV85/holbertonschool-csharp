@@ -14,9 +14,14 @@ class LList
             {
                 current = current.Next;
             }
-            else 
+            else
             {
                 myLList.AddBefore(current, node);
+                break;
+            }
+            if (current.Next == null)
+            {
+                myLList.AddLast(node);    
                 break;
             }
         }
