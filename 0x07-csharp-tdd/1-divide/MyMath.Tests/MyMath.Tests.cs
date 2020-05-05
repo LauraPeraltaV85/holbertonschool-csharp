@@ -3,7 +3,7 @@ using NUnit.Framework;
 namespace MyMath.Tests
 {
     [TestFixture]
-    public class Tests
+    public class MatrixTests
     {
         [Test]
         public void Divide_whenNumEqualsZero_ReturnsNull()
@@ -23,7 +23,7 @@ namespace MyMath.Tests
             Assert.AreEqual(newMatrix, null);
         }
         [Test]
-        public void Divide_whenMatrixAndNum_ReturnsNull()
+        public void Divide_whenMatrixAndNum_ReturnsNewMatrix()
         {
             int[,] firstMatrix = new int[2, 3] {{4, 34, 2}, {22, 56, 34}};
             int[,] secMatrix = new int[2, 3] {{2, 17, 1}, {11, 28, 17}};
