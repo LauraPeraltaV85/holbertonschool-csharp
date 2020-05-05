@@ -17,7 +17,7 @@ namespace MyMath.Tests
         public void Add_whenTwoNumbersPassed_ReturnsSumResult(int a, int b)
         {
             int result = Operations.Add(a, b);
-            Assert.AreEqual(result, a + b);
+            Assert.AreEqual(a + b, result);
         }
     }
 }
