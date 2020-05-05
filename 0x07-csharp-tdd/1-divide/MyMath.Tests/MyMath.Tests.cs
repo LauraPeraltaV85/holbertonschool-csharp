@@ -26,10 +26,9 @@ namespace MyMath.Tests
         public void Divide_whenMatrixAndNum_ReturnsNewMatrix()
         {
             int[,] firstMatrix = new int[2, 3] {{4, 34, 2}, {22, 56, 34}};
-            int[,] secMatrix = new int[2, 3] {{2, 17, 1}, {11, 28, 17}};
 
             int[,] newMatrix = Matrix.Divide(firstMatrix, 2);
-            Assert.AreEqual(newMatrix, secMatrix);
+            Assert.AreEqual(newMatrix, new int[2, 3] {{2, 17, 1}, {11, 28, 17}});
         }
     }
 }
