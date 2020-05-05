@@ -15,8 +15,8 @@ namespace MyMath
                 int[,] newMatrix = new int[width,height];
                 for (int x = 0; x < width; x++) {
                     for (int y = 0; y < height; y++) {
-                        decimal v = Decimal.Divide(matrix[x, y], num);
-                        newMatrix[x, y] = (int)v;
+                        int v = (matrix[x, y] / num);
+                        newMatrix[x, y] = v;
                     }
                 }
                 return newMatrix;
