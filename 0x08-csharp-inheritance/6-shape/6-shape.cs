@@ -17,7 +17,7 @@ class Rectangle : Shape
     
     /// <summary> Gets ans sets width of Rectangle</summary>
     public int Width {
-        get => width;
+        get { return width; }
         set
         {
             if (width < 0)
@@ -28,7 +28,7 @@ class Rectangle : Shape
 
     /// <summary> Gets ans sets height of Rectangle</summary>
     public int Height {
-        get => height;
+        get { return height; }
         set
         {
             if (height < 0)
