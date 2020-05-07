@@ -10,8 +10,8 @@ class Obj
     public static void Print(object myObj)
     {
         TypeInfo t = myObj.GetType().GetTypeInfo();
-        IEnumerable<PropertyInfo> propertiesList = t.DeclaredProperties;
-        IEnumerable<MethodInfo> methodsList = t.DeclaredMethods;
+        IEnumerable<PropertyInfo> propertiesList = t.GetProperties();
+        IEnumerable<MethodInfo> methodsList = t.GetMethods();
         //StringBuilder stringToPrint = new StringBuilder();
 
         //stringToPrint.Append(GetType(myObj) + ' ' + "Properties:");
