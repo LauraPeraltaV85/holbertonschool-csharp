@@ -19,6 +19,6 @@ class VectorMath
             res = res + sqrt;
         }
         vecLen = Math.Sqrt(res);
-        return vecLen; 
+        return Math.Round(vecLen, 2); 
     }
 }
