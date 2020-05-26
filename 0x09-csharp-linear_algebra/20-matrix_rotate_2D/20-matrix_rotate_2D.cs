@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary>Class operations with matrices</summary>
 class MatrixMath
 {
+    /// <summary>Method that rotates a matrix</summary>
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
         // double angleR = (Math.PI / 180) * angle;
