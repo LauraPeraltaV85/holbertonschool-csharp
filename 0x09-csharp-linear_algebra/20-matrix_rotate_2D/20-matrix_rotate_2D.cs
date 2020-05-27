@@ -40,10 +40,10 @@ class MatrixMath
         double angleCos = Math.Cos(angle);
         double angleSin = Math.Sin(angle);
         double[,] cosSin = {
-            // {angleCos, angleSin}, 
-            // {-angleSin, angleCos}
-            {-angleSin, angleCos}, 
-            {angleCos, angleSin}
+            {angleCos, -angleSin}, 
+            {angleSin, angleCos}
+            // {angleSin, angleCos}, 
+            // {angleCos, angleSin}
             };
         double[,] newMatrix = new double[matrix.GetLength(0), matrix.GetLength(1)];
         double[,] notPossible = {{-1}};
