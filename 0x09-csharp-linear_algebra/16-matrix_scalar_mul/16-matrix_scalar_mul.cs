@@ -6,7 +6,7 @@ class MatrixMath
     /// <summary>Method that miltiplies a matrix and a scalar</summary>
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
-        double[,] notPossible = {{-1}, {-1}};
+        double[,] notPossible = {{-1}};
         if (matrix.GetLength(0) < 2 || matrix.GetLength(0) > 3)
         {
             return notPossible;

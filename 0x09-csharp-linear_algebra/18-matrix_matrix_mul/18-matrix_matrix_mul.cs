@@ -6,7 +6,7 @@ class MatrixMath
     /// <summary>Method that multiplies two matrices</summary>
     public static double[,] Multiply(double[,] matrix1, double[,] matrix2)
     {
-        double[,] notPossible = {{-1}, {-1}};
+        double[,] notPossible = {{-1}};
         if (matrix1.GetLength(1) != matrix2.GetLength(0))
         {
             return notPossible;
