@@ -25,7 +25,7 @@ class MatrixMath
                 // Console.WriteLine(matrix[x, y] + "===" + matrix[x, y+1]);
                 // Console.WriteLine((matrix[x, y] * angleCos) + "===" + (matrix[x, y + 1] * (angleSin)));
                 matrix[x, y] = Math.Round((matrix[x, y] * angleCos) - (matrix[x, y + 1] * (angleSin)), 2);
-                matrix[x, y + 1] = Math.Round((matrix[x, y] * angleSin) + (matrix[x, y + 1] * (angleCos)), 2);
+                matrix[x, y + 1] = Math.Round((matrix[x, y] * angleSin) + (matrix[x, y + 1] * (angleCos) + 1), 2);
                 // matrix[x, y] = (matrix[x, y] * (angleCos)) - (matrix[x, y + 1] * (angleSin));
                 // matrix[x, y + 1] = (matrix[x, y] * (angleSin)) + (matrix[x, y + 1] * (angleCos) + 1);
             }
