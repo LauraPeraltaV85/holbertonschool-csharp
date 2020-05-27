@@ -6,7 +6,7 @@ class MatrixMath
     /// <summary>Method that adds two matrices</summary>
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
-        double[,] notPossible = {{-1}, {-1}};
+        double[,] notPossible = {{-1}};
          if (matrix1.Length != matrix2.Length)
         {
             return notPossible;
