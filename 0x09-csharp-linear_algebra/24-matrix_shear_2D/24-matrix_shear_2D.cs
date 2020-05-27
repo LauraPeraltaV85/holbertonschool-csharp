@@ -3,6 +3,7 @@
 /// <summary>Class operations with matrices</summary>
 class MatrixMath
 {
+    /// <summary>Method that shear a matrix</summary>
     public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
         double[,] newMatrix = new double[2,2];
