@@ -13,7 +13,8 @@ class MatrixMath
         double angleSin = Math.Sin(angle);
         double[,] notPossible = {{-1}, {-1}};
 
-        if (matrix.GetLength(0) != 2)
+        Console.WriteLine(matrix.GetLength(1));
+        if (matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
         {
             return notPossible;
         }
@@ -25,7 +26,7 @@ class MatrixMath
                 // Console.WriteLine(matrix[x, y] + "===" + matrix[x, y+1]);
                 // Console.WriteLine((matrix[x, y] * angleCos) + "===" + (matrix[x, y + 1] * (angleSin)));
                 matrix[x, y] = Math.Round((matrix[x, y] * angleCos) - (matrix[x, y + 1] * (angleSin)), 2);
-                matrix[x, y + 1] = Math.Round((matrix[x, y] * angleSin) + (matrix[x, y + 1] * (angleCos) + 1), 2);
+                matrix[x, y + 1] = Math.Round((matrix[x, y] * angleSin) + (matrix[x, y + 1] * (angleCos)), 2);
                 // matrix[x, y] = (matrix[x, y] * (angleCos)) - (matrix[x, y + 1] * (angleSin));
                 // matrix[x, y + 1] = (matrix[x, y] * (angleSin)) + (matrix[x, y + 1] * (angleCos) + 1);
             }
